@@ -36,7 +36,7 @@ function listcheck(){
         // for (var totallistcheck=0; totallistcheck'input[type="checkbox"]:checked'.length; i++){
             //  count +=1;
         if(totallistcheck==5){
-            resolve("5 tasks is completed, congrats");
+            resolve("5 tasks is completed, congrats 👍👍");
             // reject("5 tasks not yet completed..");
         }else{
             reject("5 tasks not yet completed..");
